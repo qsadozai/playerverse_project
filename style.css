@@ -1,0 +1,100 @@
+body {
+
+    font-family: 'Orbitron', sans-serif;
+    background-color: #1A1A1A;
+    color: #9DFF7B;
+}
+
+.header-div {
+    font-family: "Arial",serif;
+    background-color: #C93864;
+    color: #000000;
+}
+
+.timer {
+
+    font-family: "Arial",serif;
+    background-color: #FFDB85;
+    color: #000000;
+}
+
+
+.logo-span {
+    color: #9DFF7B;
+}
+
+.search-bar {
+    border-radius: 5px;
+    background-color:#32303F;
+    color: #9DFF7B;
+    border-style: none;
+    padding: 6px;
+}
+
+.news-link {
+    text-decoration: none;
+    color: #9DFF7B;
+    font-weight: lighter;
+}
+.aboutus-link {
+    text-decoration: none;
+    color: #9DFF7B;
+    font-weight: lighter;
+}
+.bookmark-link {
+    text-decoration: none;
+    color: #9DFF7B;
+    font-weight: lighter;
+}
+
+
+hr {
+    border-color: #9DFF7B;
+}
+
+.games-span {
+    color: #9DFF7B;
+}
+
+.sort-div {
+    border: 1px solid;
+    border-color: #9DFF7B;
+    
+}
+
+.button-div {
+    background-color: #000000;
+}
+
+.mostpopular-button {
+    font-family: 'Orbitron', sans-serif;
+    background-color: #000000;
+    border-color: #9DFF7B;
+    color: #9DFF7B;
+}
+
+.genre-button {
+
+    font-family: 'Orbitron', sans-serif;
+    background-color: #000000;
+    border-style: none;
+    color: #9DFF7B;
+    
+}
+
+.three-games {
+    
+
+font-family: 'Orbitron', sans-serif;
+background-color: #000000;
+border-color: #9DFF7B;
+color: #9DFF7B;
+border-style: solid;
+    
+}
+
+
+a {
+    color: #9DFF7B;
+    text-decoration: none;
+}
